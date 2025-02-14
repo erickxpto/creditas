@@ -61,7 +61,7 @@ pkg/
 1. Clone o repositório:
 
 ```sh
-git clone https://github.com/erickgledson/creditas.git
+git clone https://github.com/erickxpto/creditas.git
 cd creditas
 ```
 
